@@ -1,0 +1,5 @@
+{
+  "rotationSchedule": "weekly",
+  "secretProviders": ["aws-secrets-manager", "hashicorp-vault"],
+  "notificationEmail": "security@yourcompany.com"
+}
